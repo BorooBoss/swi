@@ -1,2 +1,7 @@
 TESTOVANIE PRE DEVELOPMENT VETVU
+
 hhh
+
+
+
+upravil som tento subor z druheho pocitaca aby vznikol conflict
