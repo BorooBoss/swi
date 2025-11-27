@@ -1,4 +1,9 @@
 TESTOVANIE PRE DEVELOPMENT VETVU
+
 hhh
 
-CONFLICT
+
+
+
+upravil som tento subor z druheho pocitaca aby vznikol conflict
+
